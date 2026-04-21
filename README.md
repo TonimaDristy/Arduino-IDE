@@ -3,8 +3,7 @@
 ## 📸 Demo
 
 <p align="center">
-  <img src="https://github.com/TonimaDristy/Arduino-IDE/blob/main/Screenshot%202026-04-21%20184256.png
-" width="600"/>
+  <img src="https://github.com/TonimaDristy/Arduino-IDE/raw/main/Screenshot%202026-04-21%20184256.png" width="600"/>
 </p>
 
 
@@ -68,5 +67,4 @@ This system makes billing:
 
 ---
 
-## 📸 Preview
-(Add images of your setup here)
+
